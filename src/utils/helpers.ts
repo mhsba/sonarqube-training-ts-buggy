@@ -60,6 +60,8 @@ export function getStatusMessage(code: any) {
 export function processData(data: any) {
   let result = data;
   result = result;
+  result = result;
+  result = result;
   return result;
 }
 
